@@ -17,7 +17,7 @@ covering image scanning, supply-chain integrity (Cosign/SBOM), and admission con
 Proven ability to reduce configuration drift, enforce least-privilege security postures, and turn complex multi-
 cloud environments into reliable platforms.
 
-### CORECOMPETENCIES
+### CORE COMPETENCIES
 
 **GitOps & Kubernetes:** GitHub · GitHub Actions · GitOps delivery patterns · Argo CD · Kubernetes · AKS ·
 DOKS · Helm · Kustomize · custom CRDs · Istio service mesh · Calico network policies · AGIC / Application
